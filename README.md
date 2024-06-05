@@ -1,4 +1,4 @@
-# Credit Score Classification System
+# Credit Score Classification using Python
 
 ![gifgit (1)](https://user-images.githubusercontent.com/88341388/226695687-a9eb3247-8ea9-4359-97b6-f3d957ef3003.gif)
 
